@@ -1,0 +1,14 @@
+{
+    "tools": [
+        {
+            "name": "BrickBench",
+            "description": "Brick Bench's rendering focuses on accuracy to the real game engine.\nEdit map objects to modify levels or create fully custom maps.\nHook into your TCS game to plot the game state and enemies in real time, or teleport anywhere on the map with a single keystroke.",
+            "supportedEngines": [
+                "pcghg"
+            ],
+            "website": "https://brickbench.opengg.dev/",
+            "documentation": "https://docs.google.com/document/d/1RXuAUQNmjFDr9oPZbHN-2UgKCik0rLudYj0bE-GejzM/edit?usp=sharing",
+            "githubRepositoryName": "brickbench/brickbench"
+        }
+    ]
+}
